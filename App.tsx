@@ -112,7 +112,7 @@ const AboutUniverse = () => (
             </div>
           </div>
         </div>
-        <div className="relative h-64 w-full bg-black/50 rounded-lg overflow-hidden border border-neon-purple/30 group">
+        <div className="relative h-80 md:h-96 w-full bg-black/50 rounded-lg overflow-hidden border border-neon-purple/30 group">
           <div className="absolute inset-0 bg-gradient-to-t from-black via-transparent to-transparent z-10" />
           <img src="/images/profile.jpg" alt="Prabesh Acharya" className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110" />
           <div className="absolute bottom-4 left-4 z-20">
